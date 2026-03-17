@@ -1,0 +1,356 @@
+OSS: Launched worker PID 35692
+OSS: Sending message to PID 35692 at time 0:0
+OSS: Receiving message from PID 35692 at time 0:0
+OSS: Sending message to PID 35692 at time 0:250000000
+OSS: Receiving message from PID 35692 at time 0:250000000
+
+OSS PID:35690 SysClockS:0 SysClockNano:500000000
+Entry Occupied PID StartS StartN EndS EndN MessageSent
+0 1 35692 0 0 1 339730181 2
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+OSS: Launched worker PID 35693
+OSS: Sending message to PID 35693 at time 0:500000000
+OSS: Receiving message from PID 35693 at time 0:500000000
+OSS: Sending message to PID 35692 at time 0:625000000
+OSS: Receiving message from PID 35692 at time 0:625000000
+OSS: Sending message to PID 35693 at time 0:750000000
+OSS: Receiving message from PID 35693 at time 0:750000000
+OSS: Sending message to PID 35692 at time 0:875000000
+OSS: Receiving message from PID 35692 at time 0:875000000
+
+OSS PID:35690 SysClockS:1 SysClockNano:0
+Entry Occupied PID StartS StartN EndS EndN MessageSent
+0 1 35692 0 0 1 339730181 4
+1 1 35693 0 500000000 4 40569901 2
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+OSS: Launched worker PID 35694
+OSS: Sending message to PID 35693 at time 1:0
+OSS: Receiving message from PID 35693 at time 1:0
+OSS: Sending message to PID 35694 at time 1:83333333
+OSS: Receiving message from PID 35694 at time 1:83333333
+OSS: Sending message to PID 35692 at time 1:166666666
+OSS: Receiving message from PID 35692 at time 1:166666666
+OSS: Sending message to PID 35693 at time 1:249999999
+OSS: Receiving message from PID 35693 at time 1:249999999
+OSS: Sending message to PID 35694 at time 1:333333332
+OSS: Receiving message from PID 35694 at time 1:333333332
+OSS: Sending message to PID 35692 at time 1:416666665
+OSS: Receiving message from PID 35692 at time 1:416666665
+OSS: Worker 35692 is planning to terminate
+
+OSS PID:35690 SysClockS:1 SysClockNano:541666665
+Entry Occupied PID StartS StartN EndS EndN MessageSent
+0 0
+1 1 35693 0 500000000 4 40569901 4
+2 1 35694 1 0 5 552926770 2
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+OSS: Launched worker PID 35695
+OSS: Sending message to PID 35693 at time 1:541666665
+OSS: Receiving message from PID 35693 at time 1:541666665
+OSS: Sending message to PID 35694 at time 1:624999998
+OSS: Receiving message from PID 35694 at time 1:624999998
+OSS: Sending message to PID 35695 at time 1:708333331
+OSS: Receiving message from PID 35695 at time 1:708333331
+OSS: Sending message to PID 35693 at time 1:791666664
+OSS: Receiving message from PID 35693 at time 1:791666664
+OSS: Sending message to PID 35694 at time 1:874999997
+OSS: Receiving message from PID 35694 at time 1:874999997
+OSS: Sending message to PID 35695 at time 1:958333330
+OSS: Receiving message from PID 35695 at time 1:958333330
+OSS: Sending message to PID 35693 at time 2:41666663
+OSS: Receiving message from PID 35693 at time 2:41666663
+
+OSS PID:35690 SysClockS:2 SysClockNano:124999996
+Entry Occupied PID StartS StartN EndS EndN MessageSent
+0 1 35695 1 541666665 4 252366087 2
+1 1 35693 0 500000000 4 40569901 7
+2 1 35694 1 0 5 552926770 4
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+OSS: Sending message to PID 35694 at time 2:124999996
+OSS: Receiving message from PID 35694 at time 2:124999996
+OSS: Sending message to PID 35695 at time 2:208333329
+OSS: Receiving message from PID 35695 at time 2:208333329
+OSS: Sending message to PID 35693 at time 2:291666662
+OSS: Receiving message from PID 35693 at time 2:291666662
+OSS: Sending message to PID 35694 at time 2:374999995
+OSS: Receiving message from PID 35694 at time 2:374999995
+OSS: Sending message to PID 35695 at time 2:458333328
+OSS: Receiving message from PID 35695 at time 2:458333328
+OSS: Sending message to PID 35693 at time 2:541666661
+OSS: Receiving message from PID 35693 at time 2:541666661
+OSS: Sending message to PID 35694 at time 2:624999994
+OSS: Receiving message from PID 35694 at time 2:624999994
+
+OSS PID:35690 SysClockS:2 SysClockNano:708333327
+Entry Occupied PID StartS StartN EndS EndN MessageSent
+0 1 35695 1 541666665 4 252366087 4
+1 1 35693 0 500000000 4 40569901 9
+2 1 35694 1 0 5 552926770 7
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+OSS: Sending message to PID 35695 at time 2:708333327
+OSS: Receiving message from PID 35695 at time 2:708333327
+OSS: Sending message to PID 35693 at time 2:791666660
+OSS: Receiving message from PID 35693 at time 2:791666660
+OSS: Sending message to PID 35694 at time 2:874999993
+OSS: Receiving message from PID 35694 at time 2:874999993
+OSS: Sending message to PID 35695 at time 2:958333326
+OSS: Receiving message from PID 35695 at time 2:958333326
+OSS: Sending message to PID 35693 at time 3:41666659
+OSS: Receiving message from PID 35693 at time 3:41666659
+OSS: Sending message to PID 35694 at time 3:124999992
+OSS: Receiving message from PID 35694 at time 3:124999992
+OSS: Sending message to PID 35695 at time 3:208333325
+OSS: Receiving message from PID 35695 at time 3:208333325
+
+OSS PID:35690 SysClockS:3 SysClockNano:291666658
+Entry Occupied PID StartS StartN EndS EndN MessageSent
+0 1 35695 1 541666665 4 252366087 7
+1 1 35693 0 500000000 4 40569901 11
+2 1 35694 1 0 5 552926770 9
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+OSS: Sending message to PID 35693 at time 3:291666658
+OSS: Receiving message from PID 35693 at time 3:291666658
+OSS: Sending message to PID 35694 at time 3:374999991
+OSS: Receiving message from PID 35694 at time 3:374999991
+OSS: Sending message to PID 35695 at time 3:458333324
+OSS: Receiving message from PID 35695 at time 3:458333324
+OSS: Sending message to PID 35693 at time 3:541666657
+OSS: Receiving message from PID 35693 at time 3:541666657
+OSS: Sending message to PID 35694 at time 3:624999990
+OSS: Receiving message from PID 35694 at time 3:624999990
+OSS: Sending message to PID 35695 at time 3:708333323
+OSS: Receiving message from PID 35695 at time 3:708333323
+OSS: Sending message to PID 35693 at time 3:791666656
+OSS: Receiving message from PID 35693 at time 3:791666656
+
+OSS PID:35690 SysClockS:3 SysClockNano:874999989
+Entry Occupied PID StartS StartN EndS EndN MessageSent
+0 1 35695 1 541666665 4 252366087 9
+1 1 35693 0 500000000 4 40569901 14
+2 1 35694 1 0 5 552926770 11
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+OSS: Sending message to PID 35694 at time 3:874999989
+OSS: Receiving message from PID 35694 at time 3:874999989
+OSS: Sending message to PID 35695 at time 3:958333322
+OSS: Receiving message from PID 35695 at time 3:958333322
+OSS: Sending message to PID 35693 at time 4:41666655
+OSS: Receiving message from PID 35693 at time 4:41666655
+OSS: Worker 35693 is planning to terminate
+OSS: Launched worker PID 35696
+OSS: Sending message to PID 35694 at time 4:166666655
+OSS: Receiving message from PID 35694 at time 4:166666655
+OSS: Sending message to PID 35695 at time 4:249999988
+OSS: Receiving message from PID 35695 at time 4:249999988
+OSS: Sending message to PID 35696 at time 4:333333321
+OSS: Receiving message from PID 35696 at time 4:333333321
+
+OSS PID:35690 SysClockS:4 SysClockNano:416666654
+Entry Occupied PID StartS StartN EndS EndN MessageSent
+0 1 35695 1 541666665 4 252366087 11
+1 1 35696 4 166666655 5 176344723 1
+2 1 35694 1 0 5 552926770 13
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+OSS: Sending message to PID 35694 at time 4:416666654
+OSS: Receiving message from PID 35694 at time 4:416666654
+OSS: Sending message to PID 35695 at time 4:499999987
+OSS: Receiving message from PID 35695 at time 4:499999987
+OSS: Worker 35695 is planning to terminate
+OSS: Sending message to PID 35696 at time 4:624999987
+OSS: Receiving message from PID 35696 at time 4:624999987
+OSS: Sending message to PID 35694 at time 4:749999987
+OSS: Receiving message from PID 35694 at time 4:749999987
+OSS: Sending message to PID 35696 at time 4:874999987
+OSS: Receiving message from PID 35696 at time 4:874999987
+
+OSS PID:35690 SysClockS:4 SysClockNano:999999987
+Entry Occupied PID StartS StartN EndS EndN MessageSent
+0 0
+1 1 35696 4 166666655 5 176344723 3
+2 1 35694 1 0 5 552926770 15
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+OSS: Sending message to PID 35694 at time 4:999999987
+OSS: Receiving message from PID 35694 at time 4:999999987
+OSS: Sending message to PID 35696 at time 5:124999987
+OSS: Receiving message from PID 35696 at time 5:124999987
+OSS: Sending message to PID 35694 at time 5:249999987
+OSS: Receiving message from PID 35694 at time 5:249999987
+OSS: Sending message to PID 35696 at time 5:374999987
+OSS: Receiving message from PID 35696 at time 5:374999987
+OSS: Worker 35696 is planning to terminate
+
+OSS PID:35690 SysClockS:5 SysClockNano:624999987
+Entry Occupied PID StartS StartN EndS EndN MessageSent
+0 0
+1 0
+2 1 35694 1 0 5 552926770 17
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+OSS: Sending message to PID 35694 at time 5:624999987
+OSS: Receiving message from PID 35694 at time 5:624999987
+OSS: Sending message to PID 35694 at time 5:874999987
+OSS: Receiving message from PID 35694 at time 5:874999987
+OSS: Worker 35694 is planning to terminate
+
+OSS finished
