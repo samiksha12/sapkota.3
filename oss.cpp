@@ -309,6 +309,7 @@ int main(int argc, char *argv[])
     int launched = 0;
     int active = 0;
     int currentIndex = 0;
+    int totalMessageSent = 0;
 
     int intervalSec = (int)interval;
     int intervalNano = (interval - intervalSec) * BILLION;
@@ -415,6 +416,7 @@ int main(int argc, char *argv[])
                        to_string(*sec) + ":" + to_string(*nano) + "\n");
 
                 processTable[currentIndex].messageSent++;
+                totalMessageSent++;
 
                 if (msg.intData == 0)
                 {
@@ -434,7 +436,8 @@ int main(int argc, char *argv[])
 
         incrementClock(active);
     }
-    logmsg("\nOSS finished\n");
+    logmsg("\nOSS launched " + to_string(launched) + " processes.");
+    logmsg("\nTotal number of times messages were sent : " + to_string(totalMessageSent) + ".\n");
 
     cleanup();
 
